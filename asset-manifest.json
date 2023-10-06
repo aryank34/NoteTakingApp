@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://aryank34.github.io/NoteTakingApp/static/css/main.073c9b0a.css",
-    "main.js": "https://aryank34.github.io/NoteTakingApp/static/js/main.3fa84c02.js",
+    "main.js": "https://aryank34.github.io/NoteTakingApp/static/js/main.0ed58cb6.js",
     "static/js/787.cda612ba.chunk.js": "https://aryank34.github.io/NoteTakingApp/static/js/787.cda612ba.chunk.js",
     "index.html": "https://aryank34.github.io/NoteTakingApp/index.html",
     "main.073c9b0a.css.map": "https://aryank34.github.io/NoteTakingApp/static/css/main.073c9b0a.css.map",
-    "main.3fa84c02.js.map": "https://aryank34.github.io/NoteTakingApp/static/js/main.3fa84c02.js.map",
+    "main.0ed58cb6.js.map": "https://aryank34.github.io/NoteTakingApp/static/js/main.0ed58cb6.js.map",
     "787.cda612ba.chunk.js.map": "https://aryank34.github.io/NoteTakingApp/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3fa84c02.js"
+    "static/js/main.0ed58cb6.js"
   ]
 }
